@@ -4,7 +4,7 @@
    Se o arquivo não existir, aparece uma imagem provisória rosa.
    ========================================================== */
 const CONFIG = {
-  inicio: "2025-12-17",   // data em que tudo começou (AAAA-MM-DD) — troque pela real
+  inicio: "2025-12-16",   // data em que tudo começou (AAAA-MM-DD) — troque pela real
   fotos: [
     { src: "momento-01.jpg", legenda: "O dia em que tudo mudou", h: 480 },
     { src: "momento-02.jpg", legenda: "Seu sorriso é meu lugar favorito", h: 340 },
@@ -14,8 +14,8 @@ const CONFIG = {
     { src: "momento-05.jpg", legenda: "Mais um dia ao seu lado", h: 320 }
   ],
   linhaDoTempo: [
-    { data: "Dia 1", texto: "Nossos caminhos se cruzaram e nada mais foi igual." },
-    { data: "Primeiro encontro", texto: "Nervosos, felizes e sem querer que a noite acabasse." },
+    { data: "Dia 1", texto: "Voltamos a conversar, sem imaginar que aquelas conversas dariam início a uma história tão especial. Aos poucos, fomos nos aproximando e criando algo que hoje significa tanto para mim." },
+    { data: "Primeiro encontro", texto: "Nervosos, felizes e sem querer que a noite acabasse.Lembro com carinho do dia em que fui à sua casa para conhecer sua família. Confesso que havia um pouquinho de nervosismo, mas também muita felicidade por estar dando mais um passo para fazer parte da sua vida." },
     { data: "Primeiras vezes", texto: "Cada descoberta juntos virou um capítulo especial." },
     { data: "11 meses", texto: "Quase um ano de amor, e sempre com vontade de mais." }
   ],
